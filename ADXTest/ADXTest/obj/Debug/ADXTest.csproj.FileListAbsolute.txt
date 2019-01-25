@@ -1,0 +1,12 @@
+D:\CsharpComp\veloxy\OutlookPlugin\ADXTest\ADXTest\bin\Debug\ADXTest.dll
+D:\CsharpComp\veloxy\OutlookPlugin\ADXTest\ADXTest\bin\Debug\ADXTest.pdb
+D:\CsharpComp\veloxy\OutlookPlugin\ADXTest\ADXTest\bin\Debug\Interop.Office.dll
+D:\CsharpComp\veloxy\OutlookPlugin\ADXTest\ADXTest\bin\Debug\Interop.Outlook.dll
+D:\CsharpComp\veloxy\OutlookPlugin\ADXTest\ADXTest\bin\Debug\Interop.VBIDE.dll
+D:\CsharpComp\veloxy\OutlookPlugin\ADXTest\ADXTest\obj\Debug\ADXTest.csprojAssemblyReference.cache
+D:\CsharpComp\veloxy\OutlookPlugin\ADXTest\ADXTest\obj\Debug\ADXTest.AddinModule.resources
+D:\CsharpComp\veloxy\OutlookPlugin\ADXTest\ADXTest\obj\Debug\ADXTest.csproj.GenerateResource.cache
+D:\CsharpComp\veloxy\OutlookPlugin\ADXTest\ADXTest\obj\Debug\ADXTest.csproj.CoreCompileInputs.cache
+D:\CsharpComp\veloxy\OutlookPlugin\ADXTest\ADXTest\obj\Debug\ADXTest.csproj.CopyComplete
+D:\CsharpComp\veloxy\OutlookPlugin\ADXTest\ADXTest\obj\Debug\ADXTest.dll
+D:\CsharpComp\veloxy\OutlookPlugin\ADXTest\ADXTest\obj\Debug\ADXTest.pdb

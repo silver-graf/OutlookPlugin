@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <application name="ADXTest" publisher="Default Company" version="1.0.0.0" providerUrl="D:\CsharpComp\veloxy\OutlookPlugin\ADXTest\WebSite\adxtest.application" minimumVersion="" culture="neutral" icon="" publicKeyToken="b7617e9f58379e83" processorArchitecture="x86">
+    <supportedApps>4</supportedApps>
+    <registerForComInterop />
+  </application>
+  <preferences>
+    <showErrors>true</showErrors>
+    <showGUI>true</showGUI>
+    <runAfterInstalling>false</runAfterInstalling>
+    <generateLogFile>false</generateLogFile>
+    <showRegMsg>true</showRegMsg>
+    <showRunningApplicationsWarning>true</showRunningApplicationsWarning>
+  </preferences>
+</configuration>

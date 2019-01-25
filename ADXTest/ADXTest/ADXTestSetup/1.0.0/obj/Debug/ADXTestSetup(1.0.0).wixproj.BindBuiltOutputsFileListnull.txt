@@ -1,0 +1,2 @@
+D:\CsharpComp\veloxy\OutlookPlugin\ADXTest\ADXTest\ADXTestSetup\1.0.0\bin\Debug\ADXTestSetup(1.0.0).msi
+D:\CsharpComp\veloxy\OutlookPlugin\ADXTest\ADXTest\ADXTestSetup\1.0.0\bin\Debug\ADXTestSetup(1.0.0).wixpdb

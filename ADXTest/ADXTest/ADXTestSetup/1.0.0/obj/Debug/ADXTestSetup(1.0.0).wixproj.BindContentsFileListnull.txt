@@ -1,0 +1,8 @@
+D:\CsharpComp\veloxy\OutlookPlugin\ADXTest\ADXTest\Loader\adxloader.dll
+D:\CsharpComp\veloxy\OutlookPlugin\ADXTest\ADXTest\bin\Debug\Interop.Office.dll
+D:\CsharpComp\veloxy\OutlookPlugin\ADXTest\ADXTest\Loader\adxloader.dll.manifest
+D:\CsharpComp\veloxy\OutlookPlugin\ADXTest\ADXTest\Loader\adxloader64.dll
+C:\Program Files (x86)\Add-in Express\Add-in Express for .NET\Bin\AddinExpress.MSO.2005.dll
+D:\CsharpComp\veloxy\OutlookPlugin\ADXTest\ADXTest\bin\Debug\Interop.VBIDE.dll
+D:\CsharpComp\veloxy\OutlookPlugin\ADXTest\ADXTest\bin\Debug\Interop.Outlook.dll
+D:\CsharpComp\veloxy\OutlookPlugin\ADXTest\ADXTest\bin\Debug\\ADXTest.dll

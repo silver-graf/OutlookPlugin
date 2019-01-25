@@ -1,0 +1,7 @@
+D:\CsharpComp\veloxy\OutlookPlugin\ADXTest\ADXTest\ADXTestSetup\1.0.0\bin\Debug\ADXTestSetup(1.0.0).msi
+D:\CsharpComp\veloxy\OutlookPlugin\ADXTest\ADXTest\ADXTestSetup\1.0.0\bin\Debug\ADXTestSetup(1.0.0).wixpdb
+obj\\Debug\Product.wixobj
+obj\\Debug\pthB34D9EDB0A33A6EFDFF22E77ECEE5C88\_ADXTest.wixobj
+obj\\Debug\ADXTestSetup(1.0.0).wixproj.BindContentsFileListnull.txt
+obj\\Debug\ADXTestSetup(1.0.0).wixproj.BindOutputsFileListnull.txt
+obj\\Debug\ADXTestSetup(1.0.0).wixproj.BindBuiltOutputsFileListnull.txt

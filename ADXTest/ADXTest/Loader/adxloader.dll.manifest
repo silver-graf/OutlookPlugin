@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <assemblyIdentity name="ADXTest, PublicKeyToken=931d587861de0a6e" />
+  <loaderSettings generateLogFile="true" shadowCopyEnabled="false" privileges="user" />
+</configuration>
