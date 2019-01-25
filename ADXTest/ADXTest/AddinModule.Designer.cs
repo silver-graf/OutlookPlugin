@@ -146,6 +146,7 @@
             | AddinExpress.MSO.ADXRibbons.msrInfoPathPrintPreview) 
             | AddinExpress.MSO.ADXRibbons.msrProjectProject) 
             | AddinExpress.MSO.ADXRibbons.msrOneNote)));
+            this.adxRibbonButton1.OnClick += new AddinExpress.MSO.ADXRibbonOnAction_EventHandler(this.adxRibbonButton1_OnClick);
             // 
             // adxRibbonButton2
             // 

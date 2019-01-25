@@ -66,6 +66,11 @@ namespace ADXTest
             }
         }
 
+        private void adxRibbonButton1_OnClick(object sender, IRibbonControl control, bool pressed)
+        {
+            Browser b = new Browser();
+            b.Show();
+        }
     }
 }
 

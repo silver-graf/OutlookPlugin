@@ -2,7 +2,7 @@
 <Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
     <Fragment>
         <DirectoryRef Id="ADXTest.Binaries">
-            <Component Id="cmpF6049ED109A0E874D0DAA5B6D91C6C12" Guid="{1E8D58B0-EE09-4720-8505-73F18EC798FF}">
+            <Component Id="cmpF6049ED109A0E874D0DAA5B6D91C6C12" Guid="{954AE05B-2726-49EC-8EEE-2F7DBDF0574B}">
                 <File Id="fil8B63432725B49F31B651120285699C14" Source="$(var.ADXTest.TargetDir)\ADXTest.dll" />
             </Component>
         </DirectoryRef>
